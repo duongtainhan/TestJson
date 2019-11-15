@@ -1,595 +1,626 @@
-{
-  "root": {
-    "item": [
-      {
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 1 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 2 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 3 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 4 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 5 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 6 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 7 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 8 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 9 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 10 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 11 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 12 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 13 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 14 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 15 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 16 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 17 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 18 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-},
-{
-"property_address_id": 141,
-"toilet_number": null,
-"city": "Bán căn hộ chung cư tại Wyndham Soleil Đà Nẵng",
-"description": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng muốn sở hữu, vì quá đẹp! Kim cương thể hiện vẻ đẹp sang trọng quý phái, thượng lưu. - Sắc đẹp vô giá, 1 tác phẩm nghệ thuật tạo nên tuyệt tác ven biển đứng đầu tại đà nẵng. Soleil (độc thân) đứng 1 mình (độc tôn) hiện tại chưa có BĐS nào tại Sơn Trà - Đà Nẵng sánh bằng. Nơi mọi đẳng cấp thế giới hội tụ. - Biểu tượng mới của Đà Nẵng, vẻ đẹp của thành phố, dự án được UBND TP Đà Nẵng cấp phép xây dựng đặc biệt. - Chính sách cho khách hàng. + Khách hàng có thể ở, tự doanh hoặc giao cho đơn vị quản lý vận hành. + Cam kết lợi nhuận cho thuê trong 5 năm đầu tối thiểu là 9% giá trị căn hộ mỗi năm. + Sau 5 năm sẽ tiến hành chia sẻ lợi nhuận 70 - 30. + Phương thức thanh toán linh hoạt chia thành 10 đợt. + Ngân hàng Vietinbank hỗ trợ vay vốn lên tới 70% với lãi suất vay 0% cho đến khi bàn giao nhà. + Được sử dụng 15 đêm nghỉ dưỡng miễn phí tại hệ thống Wyndham. Tiện ích nội khu: + Tòa nhà có nhiều thang máy và thang bộ nhất Việt Nam (18 tháng máy + 3 thang bộ). + Sở hữu cầu thang nối giữa 2 tòa nhà Panorama cao nhất miền trung. + Sở hữu 8 bể bơi vô cực, trong đó có 4 bể bơi vô cực trên tầng thượng. + Sở hữu Trung tâm thương mại lớn nhất Miền Trung, phòng gym, Spa, nhà hàng, cà phê. - Diện tích và thiết kế: + Căn studio: 31m2 - 42m2. + Căn 1 phòng ngủ: 60m2 - 86m2. + Căn 2 phòng ngủ: 110m2 - 125m2. Đơn vị lên ý tưởng thiết kế Aedas (top 5 thế giới): Ý tưởng theo hình dạng rặng san hô mang tính chất độc đáo và biểu tượng của Đà Nẵng. - Dự kiến sau mở bán giai đoạn 1, giai đoạn 2 giá dự kiến tăng 15%! Vì vậy 1 vị trí đẹp thế này ai cũng muốn mua, căn hộ được bán rất nhanh, anh chị mua ngay hôm nay được áp dụng chính sách bán hàng cực tốt của chủ đầu tư (điều này là 1 lợi thế), đặc biệt mua được BĐS Kim Cương Soleil Ánh Dương, điều mà cả triệu người đang mơ ước. - Báo giá gốc chủ đầu tư, booking xem nhà mẫu. Hotline: 0935609666.",
-"floor_number": null,
-"title": "JSON 19 - Hot căn hộ biển Mỹ Khê cao nhất Đà Nẵng, Soleil Ánh Dương tuyệt đẹp - xứng tầm thế giới",
-"balcony": null,
-"interior": "Full nội thất.",
-"pub_date": " 01-11-2019",
-"price": "1.8 tỷ",
-"@version": "1",
-"id": 60,
-"trans_type": "BatDongSan.com.vn",
-"summary": "Soliel ánh dương với vị trí kim cương, vị trí đắt giá nhất tại mặt biển Mỹ Khê, sở hữu 1 lúc 4 mặt tiền, trong đó có 1 mặt hướng ra biển Mỹ Khê. Chuẩn quốc tế 5 sao, tiện ích cao cấp 5 sao, dịch vụ cao cấp 5 sao, nội thất cao cấp 5 sao, 1 vị trí mà tất cả các khách hàng ai cũng m...",
-"contact_owner_id": 141,
-"area": "Không xác định",
-"front_end": null,
-"room_number": null,
-"direct_of_house": null,
-"url": "https://batdongsan.com.vn/ban-can-ho-chung-cu-duong-pham-van-dong-phuong-phuoc-my-prj-wyndham-soleil-da-nang/t-bien-khe-cao-nhat-anh-tuyet-dep-xung-tam-the-gioi-pr23250210",
-"tags": [
-"news_item_es"
-],
-"@timestamp": "2019-11-14T10:33:00.740Z",
-"user_id": 1,
-"posted_milisec": 1572593160000,
-"property_project_id": 81,
-"wardin": null,
-"posted_date": "Fri, 01 Nov 2019 14:26:00 GMT"
-}
-    ]
-  }
+{ 
+   "returnCode":1,
+   "returnMessage":"success",
+   "result":[ 
+      { 
+         "newsId":635,
+         "titleNews":"NGÂN HÀNG SCB HỖ TRỢ THANH LÝ 28 LÔ ĐẤT NỀN. KV BÌNH TÂN, TPHCM",
+         "summaryNews":null,
+         "descriptionNews":"Ngân Hàng SCB Hỗ Trợ Thanh Lý 28 lô đất nền ,khu vực Bình Tân,TPHCM “Chỉ duy nhất tin này - là đúng sự thật 100%“ Bộ phận thanh lý xin thông báo với khách hàng + Vị trí thật - nói không với giá ảo. Sacombank HT thanh lý 28 lô đất thổ cư 100% gần BX. Miền Tây giá rẻ hơn thị trường từ 10-15% 1 lô. Liên hệ: 0888.476.478 Tuấn ** Trân trọng thông báo: 8h00 ngày 10 - 11 - 2019. Ngân hàng HT thanh lý 35 lô đất và 8 lô góc thổ cư 100%. Khu vực trung tâm TP. HCM + Vị trí vàng: Nằm trên đại lộ Trần Văn Giàu, cách BX. Miền Tây 4km - Di chuyển về trung tâm thành phố chỉ 15 phút. - Gần 3 KCN lớn lên đến 500,000 công nhân đang làm việc; 4,000 chuyên gia nước ngoài đang sinh sống và làm việc tại đây. - Nằm tiếp giáp quận Bình Tân, Tân Phú, Quận 6... - Diện tích 28 lô đất: 5m x 12m, 5m x 16m, giá 800triệu/lô. Đường trước đất 10m (tùy vị trí). - Diện tích 4 lô góc: 8m x 20m, giá 1,7 tỷ/lô. Đường trước đất 12m - 16m. (Tùy vị trí). - Diện tích 4 lô góc biệt thự: 10m x 21m, giá 2,4 tỷ/lô. Đường trước đất 20m - 16m. (Tùy vị trí). + Cơ sở hạ tầng hoàn thiện 100%, điện âm 3 pha, nước máy Sawaco thành phố, vỉa hè hai bên đã trồng cây xanh, đèn đường. - Hệ thống xử lý thoát nước lớn, không sợ ngập úng. - Tiện ích: Trường học các cấp, siêu thị Coop Mart, công viên cây xanh, bệnh viện,... + Pháp lý minh bạch - sổ hồng riêng từng lô. - Sang tên công chứng sau khi quý khách thanh toán 95%. - Ngân hàng hỗ trợ vay 50% - Thanh toán linh hoạt. - Trả góp 0% LS. - Phù hợp cho khách hàng mua để ở, đầu tư, kinh doanh, buôn bán, cho thuê trọ. * Quyền lợi khi khách hàng khi liên hệ phòng thanh lý: - Mua đất đẹp, vị trí đắc địa với giá tốt hơn thị trường 10%- 15%. - Nhận ngay chiết khấu: Từ 5% - 10%/lô. - Phiếu bốc thăm trúng thưởng vàng 100%: Từ 3 chỉ đến 15 chỉ. - Nhận liền tay gói ưu đãi trị giá: Từ 80.000.000đ (có thể quy đổi thành tiền mặt). * Cam kết: Bốc là trúng 100%, có mua là có trúng, có mua là có quà. Liên hệ: 0888.476.478 Tuấn Cảm ơn Quý Khách Hàng Đã Xem Tin !",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"80m²",
+         "address_prop":" Tân Tạo A, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":616,
+         "titleNews":"Nhượng gấp lô đất 600m2 (20x30m), giá từng lô 585tr/150m2",
+         "summaryNews":null,
+         "descriptionNews":"Cần khoản tiền trả nợ gấp. Tôi cần sang lại lô đất 600m2 (20x30m). Lô đất thổ cư 100% tách ra làm 4 nền. Sổ riêng từng nền 150m2, giá bán 585tr/150m2. Vị trí lô đất: Nằm trong khu đô thị Mỹ Phước 3 - Bình Dương, kế bên khu công nghiệp lớn đang hoạt động, dân cư đông đúc, gần trường học, siêu thị.. Trung tâm y tế. Mặt tiền đường 18m có khoảng 40.000 công nhân tập trung nhiều nhà trọ... Sổ hồng đầy đủ, pháp lý minh bạch rõ ràng. Bao mọi chi phí sang tên tại văn phòng công chứng nhà nước. 35 ngày có sổ. Có xe đưa rước tham quan miễn phí. Khách hàng có thiện chí mua xin liên hệ:0969.082.739 gặp Ngân",
+         "pubDate":"09/11/2019",
+         "price":"585 triệu",
+         "area":"600m²",
+         "address_prop":" NE8, Mỹ Phước 3, Bến Cát, Bình Dương",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"dat ban",
+         "contactPhone":"0969082739",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":618,
+         "titleNews":"Bán lô đất thổ cư 300m2 chỉ 579tr, gần KCN, gần trường học, chợ",
+         "summaryNews":null,
+         "descriptionNews":"Vợ chồng tôi có lô đất tại Khu Đô thị mới Bình Dương. Hiện tại gia đình đang cần một khoản tiền để kinh doanh nên bán lỗ lô đất cho ai cần. Liên hệ với vợ chồng chúng tôi qua số: 0969 082 739 Mô tả về thửa đất: - diện tích: 300m2(10x30) vuông vức. Đã chia thành 2 nền 150m2. - Giá 579tr/nền. - Giấy tờ đầy đủ, pháp lý minh bạch, bao sang sổ. - Đất gần ngay khu công nghiệp đang hoạt động, gần trường, chợ. - Tiện để cất nhà ở, xây nhà trọ, kinh doanh. Vì vợ chồng tôi đang muốn bán gấp nên sẽ bán nhanh cho ai có thiện chí mua. Liên hệ cHỊ Hoa 0969.082.739",
+         "pubDate":"09/11/2019",
+         "price":"579 triệu",
+         "area":"300m²",
+         "address_prop":" Phú Hòa, Thủ Dầu Một, Bình Dương",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Chị Hoa",
+         "contactPhone":"0969 082 739",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":626,
+         "titleNews":"Mở Bán Đợt 2 - KDC TÊN LỬA 2 (800Triệu / Nền ) Chủ Nhật Ngày 10/11/2019",
+         "summaryNews":null,
+         "descriptionNews":"Đất Nền KDC TÊN LỬA 2 - Hội Tụ “ Nhất Cận Thị - Nhị Cận Giang – Tam Cận Lộ”, Đã Có Sổ Hồng Riêng Từng Nền, Tham Quan Miễn Phí Trân trọng thông báo lễ mở bán đợt 2 diễn ra vào 8h00' sáng chủ nhật 10/11/2019 (rất mong được đón tiếp quý khách). 1. TỔNG QUAN +Vị trí : MT Trần Văn Giàu - TP. Hồ Chí Minh.( Cách AEON Tên Lửa Bình Tân 5P Chạy Xe ) +Diện tích khuôn viên : 75 ha. 2. HẠ TẦNG HOÀN THIỆN 100% + Đường trải nhựa 14m, 18m, 20m, 32m, 45m. + Vỉa hè cây xanh hiện hữu 8m, thoáng mát. + Điện âm, nước máy Sawaco Thành Phố trang bị đến từng nhà + Xây dựng tự do 3. DIỆN TÍCH ĐA DẠNG + DT: 5x16, 5x21m, 5x26m, 6x19m, 6x27m, 10x17.5m, 10x4m, 5x12m + Lô góc: 6x21m; 7x26m; 10x26m . 4. GIÁ MỞ BÁN + Giá chỉ từ: 10 Triệu - 18 triệu / m2 Tùy thuộc vị trí mặt tiền đường + Gía chỉ từ 800 Triệu đến 1,8Tỷ / nền Tùy thuộc vị trí mặt tiền đường 5. TIỆN ÍCH NỔI BẬT + Hồ sinh thái 6ha, công viên ven hồ . + Trung tâm thương mại Co.opmart. + Trường tiểu học, trung học 6. PHÁP LÝ + Sổ hồng riêng từng nền, mua đất ra phòng công chứng sang tên ngay. + Quyết định phê duyệt 1/500 (không lo bị giải tỏa). + Đất thổ cư 100%, xây dựng tự do 7. TIỆN ÍCH LÂN CẬN + Đối diện Khu Công Nghiệp lớn, đang hoạt động mạnh. + Công nhân đông, tiện xây trọ, kinh doanh, buôn bán. + Mặt tiền đường Trần Văn Giàu đang được mở rộng lộ giới 60m + Dân cư hiện hữu, rất nhiều nhà đang được xây dựng + Vùng đất cao, đất thịt, chắc, không lo ngập lún + ĐẶC BIỆT CÓ NGÂN HÀNG SACOMBANK VÀ VIB HỖ TRỢ VAY VỐN 50% TRONG 1 ĐẾN 30 NĂM 8. LIÊN HỆ ĐĂNG KÝ XEM ĐẤT THỰC TẾ + Liên hệ : 0888.476.478 Tuấn + Rất mong được đón tiếp quý khách hàng Cảm Ơn Quý Khách Đã Xem Tin !",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"80m²",
+         "address_prop":" Tân Tạo A, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":611,
+         "titleNews":"Đất sổ đỏ trung tâm thương mại TP, vị trí kinh doanh đắt địa, ngay mặt tiền vành đai 4.",
+         "summaryNews":null,
+         "descriptionNews":"Đất sổ đỏ trung tâm thương mại TP, vị trí kinh doanh đắt địa, ngay mặt tiền vành đai 4. dt: 900m2(30x30m), giá chỉ từ 2 tr/m2 + Dân cư đông đúc, UBNN, Công an phường, 5 phút đến trường cấp 1,2, 3. + Hạ tầng hoàn thiện, tiện ích hiện hữu: Chợ, siêu thị, trường học, vông viên,... Cam kết đầu tư sinh lời ngay, + Thanh toán linh hoạt. + Nhận đất xây dựng ngay. LH Ngay: cô Hoa: 0969 082 739",
+         "pubDate":"09/11/2019",
+         "price":"2 triệu/m2",
+         "area":"1000m²",
+         "address_prop":" Phú Cường, Thủ Dầu Một, Bình Dương",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Chị Hoa",
+         "contactPhone":"0969 082 739",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":628,
+         "titleNews":"Mở Bán Đợt II - 38 Nền Đất Khu Đô Thị Tên Lửa 2 Gần AEON Bình Tân - 8h00 NGÀY 10/11/2019",
+         "summaryNews":null,
+         "descriptionNews":"Đặc biệt khu đô thị Tên Lửa 2 đang là khu đô thị được thu hút dòng tiền của các nhà đầu tư nhiều nhất. Thông báo mở bán đợt II khu đô thị Tên Lửa 2 Thông tin chi tiết: Cơ hội vàng cho những nhà đầu tư. Mặt tiền đường Trần Văn Giàu - tọa lạc tại vị trí chiến lược, trên 100 héc ta. Giá gốc: 800 triệu/nền sổ hồng. Thanh toán 95% được ký gửi bán lại/hoặc nhận nền xây dựng ngay. Thích hợp đầu tư lướt sóng sinh lời cực nhanh. - -------------------------------------------------. 25 phút để về trung tâm Quận 1 nối liền các tuyến đường thương mại dịch vụ. Với tiện ích đẳng cấp nằm trong nội khu: Bệnh viện Quốc Tế, trường mầm non, trường cấp I, II, III, trung tâm thương mại, siêu thị, chợ, nhà hàng Nhật Bản, nổi tiếng trên vùng Đất Thánh. Kết nối tiện ích xung quanh: Bệnh viện Chợ Rẫy 2, siêu thị Aeon, Nhi Đồng 3, BX Miền Tây. Diện tích đa dạng: - Nền nhà phố: 5x12m, 5x16m, 5x21m, 5x26m, 6x20m.... Đường 16m. - Nền biệt thự: 8x20m, 10x22m,... Đường 20m. - Nền góc 2 mặt tiền: 8x25m, 10x20m... Giá từ 780 triệu - 1,8 tỷ/nền. Trả góp 12 tháng 0% - hoặc vay lên 30 năm. - -------------------------------------------------. Các tuyến đường nội khu được trải nhựa đồng bộ, lòng đường rộng 16m - 42m, vỉa hè rộng 8m. Đã có sổ hồng riêng, mua công chứng sang tên, nhận nền xây dựng ngay. Nước máy Sawaco điện âm toàn khu. Với những giá trị đầu tư sinh lời bền vững, ưu điểm vượt trội về hạ tầng. Đã kiến tạo nên khu đô thị đáng sống bậc Sài Gòn. - --------------------------------------------------. Nơi được ví như viên ngọc xanh trồng cây vàng. Chủ nhật tuần này được tặng ngay 1 cây vàng & chiết khấu cao từ 5 - 9%. - Liên hệ: 0888.476.478 (TP tiếp nhận).",
+         "pubDate":"09/11/2019",
+         "price":"899 triệu",
+         "area":"130m²",
+         "address_prop":" Quán Thánh, Ba Đình, Hà Nội",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":627,
+         "titleNews":"Mở bán 30 nền đất KDC Tên Lửa 2 nằm gần AEON Mall bình tân",
+         "summaryNews":null,
+         "descriptionNews":"Mở bán 30 nền đất KDC Tên Lửa 2 nằm TTTM AEON Mall Bình Tân, sổ hồng riêng - Mua 1 nền lợi nhuận ít nhất 30% trong 6 - 12 tháng, chủ đầu tư bao đầu ra. * Chủ đầu tư xin cảm ơn quý khách hàng đã quan tâm và giao dịch tại dự án KDC Tên Lửa 2. Tiếp nối thành công giai đoạn 1, chủ đầu tư xin thông báo mở bán tiếp giai đoạn 2 với số lượng 30 nền đất nhà phố - biệt thự, thông tin như sau: + Thông tin sản phẩm: - Vị trí: Mặt tiền đường Số 7 KDC Tên Lửa nối dài đường Trần Văn Giàu. Cách bến xe Miền Tây chỉ 10 phút xe máy. - Diện tích nền đa dạng: + Nền nhà phố: 5x16m, 5x20m, 10x26m, 6x20m. + Nền biệt thự: 10x18m, 14x26m. + Ngoài ra có nền liền kề, nền góc DT lớn 8x20m. - Pháp lý: + Các nền đất đã có sổ hồng riêng từng nền, toàn bộ là đất thổ cư 100%. Sang tên công chứng ngay trong ngày. + Dự án đã có quyết định 1/500 nên không lo bị giải tỏa hay vướng quy hoạch, đảm bảo pháp lý toàn diện cho khu dân cư. - Tiện ích khu dân cư: + Khu vực đông dân cư. + Hạ tầng, đường, đã hoàn thiện 100%. + Bệnh viện Quốc tế City, trường học đại học - Trung tâm thương mại, trong khu dân cư đã đi vào hoạt động. + Khu du lịch Hương Sen (nhà hàng, hồ bơi, siêu thị Mini đang hoạt động. - Giá bán: 800tr/nền. + Giá tốt từ chủ đầu tư, chỉ 10 - 18 triệu/m2 (tùy theo vị trí và đường nhựa trước nhà). - Có hợp đồng cam kết lợi nhuận từ 30%/ năm cho nhà đầu tư. - Ưu đãi: + Trong ngày mở bán chủ đầu tư có nhiều ưu đãi dành cho KH như: CK khủng 7 - 9%, tặng gói quà tặng trị giá 80 triệu, quay thưởng trúng vàng từ 2 chỉ - 15 chỉ vàng SJC. - Với phương châm kinh doanh: Uy tín, chuyên nghiệp, hiệu quả. Chúng tôi luôn mang đến cho quý khách hàng các sản phẩm tốt nhất. - Hãy liên hệ ngay để được tư vấn cụ thể hơn: - 0888.476.478 Đỗ Anh Tuấn",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"130m²",
+         "address_prop":" Phường 1, Thành phố Trà Vinh, Trà Vinh",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":613,
+         "titleNews":"Dự án Phúc Thịnh Residence mở bán 50 nền giá chỉ 950 triệu,125m2,nhanh tay kẻo hết.",
+         "summaryNews":null,
+         "descriptionNews":"Đất nền Phúc Thịnh Residence thuộc khu dân cư, nằm liền kề các cụm khu công nghiệp cần bán. - Có 2 khu: Đất khu dân cư thích hợp ở, đầu tư, xây trọ, buôn bán kinh doanh, có cam kết lợi nhuận tối thiệu 10%/năm. - Khu đất cụm chợ thích hợp đầu tư, xây trọ kết hợp kinh doanh. Gần chợ, trường học bệnh viện, xe hơi vô tận nhà. - Diện tích 5x25m = 125m2 (có 2,3,4 lô liền kề) có lô góc 2 mặt tiền 175m2, 187m2. - Giá từ 7 -8triệu/m2. - CSHT hoàn thiện, đường trải nhựa lộ giới 12m - 44m, cây xanh vỉa hè, điện nước đầy đủ. - Tiện ích nội khu và ngoại khu có đầy đủ: Trường học, bệnh viện, ngân hang, chợ, UBND, phòng công chứng.",
+         "pubDate":"09/11/2019",
+         "price":"950 triệu",
+         "area":"125m²",
+         "address_prop":" Bình Chánh, Huyện Bình Chánh, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Mỹ Nhân",
+         "contactPhone":"0909690632",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":621,
+         "titleNews":"Chính Thức Mở Bán Khu Dân Cư Hai Thành City - Nằm Gần AEON Mall Bình Tân, Gía 800 Triệu/Nền",
+         "summaryNews":null,
+         "descriptionNews":"Tọa lạc trên đại lộ Trần Văn Giàu, nối dài đường Số 7, liền kề bệnh viện đa khoa Tân Tạo, cách Aeon Mall Bình Tân 15 phút đi xe máy. + Bao quanh là KCN xanh đang hoạt động, thu hút 1.000 chuyên gia nước ngoài và hơn 500.000 công nhân về sinh sống và làm việc tại đây. Liên hệ ngay để biết thêm thông tin: 0939 356 568 Đình Giang. + Chiết khấu ngay 7 - 9% cho KH giao dịch tại buổi mở bán. + Nhiều quà tặng hấp dẫn khi Qúy Khách mua tối thiểu 1 nền đất trong ngày mở bán bao gồm: 1 chiếc xe SH Mode, 20 chiếc iPhone XS Max.. + Tặng gói tư vấn thiết kế xây dựng bao gồm bản vẽ, XPXD, hoàn công. + Tặng gói nội thất cơ bản bao gồm giường, tủ, bếp, tivi... + Đặc biệt: Qúy Khách còn được tham dự chương trình bốc thăm 100% trúng thưởng lên đến 15 chỉ vàng/1 lần bốc/1 nền. + Cơ sở hạ tầng chuẩn Singapore, điện âm 3 pha, nước máy Sawaco Thành Phố. + Hệ thống đường nhựa từ 16m - 42m, vỉa hè hai bên đã trồng cây xanh, đem bóng mát đến từng nhà. + Diện tích đất nhà phố: 5m x 21m, 5m x 26m, 6m x 19m, 6m x 26m,.. + Diện tích đất biệt thự: 10m x 17,5m, 12m x 19m,.. + Diện tích đất góc 2 MT: 8m x 21m, 8m x 26m, 9m x 26m,.. + Giá mở bán: 800 triệu/nền. + Pháp lý an toàn tuyệt đối, sổ hồng riêng từng nền, công chứng sang tên ngay. Một dự án hội tụ đủ 3 yếu tố: Nhất cận thị, nhì cận giang và tam cận lộ. Liên hệ ngay để biết thêm thông tin: 0939 356 568 Đình Giang. * Tôi luôn mong muốn mang đến cho quý khách hàng sản phẩm đất nền và dịch vụ tốt nhất, sự hài lòng của quý khách hàng là niềm tin của tôi.",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"105m²",
+         "address_prop":" Trần Văn Giàu, Lê Minh Xuân, Huyện Bình Chánh, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Đình Giang",
+         "contactPhone":"0936555647 - 0936555647",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":623,
+         "titleNews":"Đất nền KDC TÂN ĐỨC,thổ cư 100%,giá 1.025 tỷ/125m2,gần chợ,trường học,view công viên",
+         "summaryNews":null,
+         "descriptionNews":"Khu vực: Bán đất nền dự án tại Khu dân cư Tân Đức - Huyện Đức Hòa - Long An Giá: 1.025tỷ Diện tích: 125m² Thông tin mô tả Bán, nhận ký gửi nhà đất khu dân cư Tân đức, đất view công viên, liền kề khu công nghiệp. - Diện tích: 5x25m, 7.5x25m, 8x25m, 10x25m. - Có nhiều vị trí đẹp như lô góc 2 mặt tiền, view công viên,và đối diện chợ và trường học - Vị trí nào cũng có. Giá gốc chính chủ. - Cơ sở hạ tầng hoàn thiện đầy đủ. - Điện âm, nước máy, internet cáp quang. - Đường trải nhựa, vỉa hè trồng cây xanh. - Gần nhiều tiện ích công cộng như chợ, trường học, bệnh viện, trung tâm thương mại. - Sổ hồng riêng, xây dựng tự do, sang tên ngay. * Liên hệ hệ ngay: 0902.677.301 gặp minh",
+         "pubDate":"09/11/2019",
+         "price":"1 tỷ 25 triệu",
+         "area":"125m²",
+         "address_prop":" Đức Hòa, Long An",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"nguyễn anh minh",
+         "contactPhone":"0902677301 - 0902677301",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":630,
+         "titleNews":"MỞ BÁN ĐỢT 2 - 29 Lô Đất Nền Bình Tân, KDC Tên Lửa 2 Giá Từ 800Tr / Nền",
+         "summaryNews":null,
+         "descriptionNews":"- Cơ Hội Không Chờ Đợi Bất Kỳ Ai, nhanh tay sở hữu ngay những vị trí đẹp nhất của khu dân cư Tên Lửa 2, huyện Bình Chánh, TP.Hồ Chí Minh với gía “Siêu Rẻ và Siêu Lợi Nhuận chỉ từ 800 Triệu / Nền.” - Vị trí: Khu dân cư Tên Lửa 2 nằm trên trục đường Trần Văn Giàu (Tỉnh Lộ 10), cách AEON MALL Bình Tân 10 phút, cách vòng xoay Phú Lâm 15 phút di chuyển - Khu dân cư nằm trên trục đường lớn 40m, cách bệnh viện Chợ Rẫy 2 đang khởi công xây dựng chỉ 5 phút và cách bệnh viện Nhi Đồng 3 đã hoạt động khoảng 10 phút đi xe máy. - Cơ sở hạ tầng đã hoàn thiện 100%, hệ thống điện âm, nước máy Sawaco Thành phố, hệ thống cống lề, bảng tên đường, đèn đường đã làm xong, tất cả các đường đã được trải nhựa. - Diện Tích đa dạng: 5x12m, 5x16m, 5x21m, 5x26m, 6x26m, 6x27m,... - Lô góc 2 mặt tiền: 7mx26m, 8mx21m, 10mx18m,... - Mặt tiền đường lớn : 13-42m - Tiện ích nội khu: Trung Tâm Thương Mại, Trường Học cấp 1-2-3, Trung Tâm Y Tế, Khu Căn Hộ Cao Cấp, Khu Vui Chơi Giải Trí, Siêu Thị, Nhà Hàng, Chợ,... * Pháp lý: - Đã có Sổ Hồng Riêng từng nền (1 nền 1 sổ), Xây Dựng Tự Do. - Mua xong sang tên công chứng trong ngày. - Hỗ trợ giấy phép xây dựng. - Ngân hàng hỗ trợ cho vay đến 60%, trả chậm trong vòng 1 đến 30 năm. - Chiết Khấu từ 5-9% trở lên + Chương trình vòng quay may mắn Trúng Vàng SBJ từ 2 - 15 chỉ trong ngày mở bán. - ĐẶC BIỆT liên hệ : Tặng ngay Sổ Tiết Kiệm trị giá đến 370 triệu khi Quý Khách Hàng giao dịch \" trong ngày mở bán \" duy nhất của Đợt 2 này. Nhanh tay gọi ngay: 0888.476.478 hoặc 0333.997.833 (gặp Mr. Tuấn) để được sở hữu những vị trí đẹp nhất.",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"100m²",
+         "address_prop":" Phường 1, TP Bạc Liêu, Bạc Liêu",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":633,
+         "titleNews":"NGÂN HÀNG VIB THÔNG BÁO HT PHÁT MÃI ĐẤT NỀN GẦN CHỢ BÀ HOM",
+         "summaryNews":null,
+         "descriptionNews":"Ngân hàng thông báo HT thanh lý đất đối diện AEON BÌNH TÂN. Ưu đãi 800 triệu/nền, nhận nền xây dựng ngay. Liên hệ: 0888476478 Đỗ Anh Tuấn - Khu đô thị Tên Lửa Residence, liền kề KCN Pouuyen Cơ hội sở hữu một bất động sản giá ưu đãi sinh lời cao. - Không dính quy hoạch, đất thổ cư, SHR từng nền. - Đường nhựa nội bộ 13m - 42m, có vỉa hè cây xanh thông thoáng, điện âm, nước máy chuẩn Sawaco. - Diện tích đa dạng: + 5x16m=80m2 + 5x26m=130m2 + 6x20m=120m2 + 10x21m=210m2 + Vị trí đắc địa: - Tọa lạc mặt tiền đường Trần Văn Giàu, đường số 7 trải dài, dễ dàng di chuyển vào trung tâm Thành Phố. - Di chuyển đến Khu vui chơi giải trí, Chợ Bà Hom, Siêu thị Coopmart Phú Lâm, AEON Bình Tân chỉ 6 phút di chuyển. - Được ôm trọn bởi các cụm KCN lớn nhỏ (KCN Pouuyen, KCN Tân Tạo, KCN Rạng Đông..) và Hệ thống các trường học ĐH - CĐ chỉ trong bán kính 3km. - Đầy đủ tiện ích xã hội, đặc biệt là UBND, bệnh viện Đa khoa cách khoảng 500m. - Đặc biệt liền kề AEOB Bình Tân, Bệnh viện Nhi đồng 3, bệnh viện chợ rẫy 2,... + Thủ tục đầy đủ, đảm bảo pháp lý minh bạch rõ ràng - Với nhiều chính sách thanh toán đa dạng nhằm đảm bảo quyền lợi tốt nhất cho khách hàng. + Thanh toán 50%, hỗ trợ trả góp trong 6 tháng không lãi suất. + Thanh toán 95%, sang tên công chứng ngay. - Hỗ trợ GPXD. - Nhận ngay chiết khấu 7-9% trong ngày thanh lý. Đăng ký để nhận thông tin và thời gian thanh lý: - Hotline 0888476478 Đỗ Anh Tuấn - Zalo/viber 0888476478 Đỗ Anh Tuấn",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"80m²",
+         "address_prop":" Tân Tạo A, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":637,
+         "titleNews":"Trân trọng thông báo mở bán dự án KDC Tên Lửa II, Liền kề Aeon Mall Bình Tân, sổ hồng riêng",
+         "summaryNews":null,
+         "descriptionNews":"Mở bán dự án KDC Tên Lửa 2, liền kề Aeon Mall Bình Tân - cam kết sổ hồng 100% nhận sổ ngay. - Khu vực: Bán đất nền dự án tại đường Trần Văn Giàu - Quận Bình Tân - Hồ Chí Minh. Thông tin mô tả. + Vị trí: Ngay mặt tiền đường Bà Hom kết nối đường Trần Văn Giàu cách Aeon Mall Bình Tân chỉ 15 phút. Tổng diện tích: 68ha. Mật độ xây dựng 60%, còn lại 40% là công viên cây xanh, các công trình công cộng. Đường trải nhựa 16m - 40m, vỉa hè 3m - 8m, hệ thống cây xanh khắp các tuyến đường trong dự án. - Hệ thống điện âm, nước máy, cáp quang internet đến từng hộ dân. - Chốt bảo vệ, camera an ninh quan sát 24/24. + Diện tích: - Nhà phố: 5x12m, 5x16m, 5x21m, 6x19m, 6x26m. - Biệt thự: 8m x 20m, 10m x 18m, 10m x 20m. + Gía chỉ từ: 15 - 28tr/m2 tùy vị trí. - Đặc biệt: Công ty cam kết lợi nhuận từ 6 tháng 12 tháng, lợi nhuận 20% - 30%. + Tiện ích khu đô thị: - Hệ thống trường học các cấp, trường quốc tế. - Trung tâm y tế cộng đồng, hệ thống chăm sóc sức khỏe cho dân cư trong dự án. - Hệ thống phố thương mại sầm uất có tại dự án. - Công viên cây xanh, công viên giải trí, kênh sinh thái, khu phức hợp thể thao đa năng, đã đưa vào sử dụng. + Pháp lý: Sổ hồng riêng từng nền, sang tên công chứng trong 7 ngày. + Phương thức thanh toán: Thanh toán linh hoạt hỗ trợ trả góp 24 tháng không lãi suất. + Hình thật bên dưới mời quý khách tham khảo. - Liên hệ: 0888.476.478 Tuấn Cảm ơn quý khách đã xem tin!",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"60m²",
+         "address_prop":" Tân Tạo A, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":639,
+         "titleNews":"Đất Nền Dự Án KDC Tân Đô - Giá Rẻ Hơn Công Ty",
+         "summaryNews":null,
+         "descriptionNews":"+ Giá bán: 1 TỶ 300 Triệu / 105m2 ( Giá công ty 1Tỷ7) + Diện tích đa dạng: 80m2,105m2, 130m2, 175m2, + Lộ giới trước nhà: 14-30m + Tiện ích nội khu: Hồ sen sinh thái, Trung tâm Thương Mại, Bệnh viện, Nhà hàng, Trường học + Pháp lý an toàn tuyệt đối: Sổ hồng riêng từng nền, công chứng sang tên ngay trong ngày. + Ngân hàng VIB và Sacombank hỗ trợ vay 60% Liên hệ chủ đầu tư 0888476478 Tuan Do để nhận thông tin về chương trình ưu đãi và chiết khấu.",
+         "pubDate":"09/11/2019",
+         "price":"1 tỷ 300 triệu",
+         "area":"105m²",
+         "address_prop":" Tỉnh Lộ 10, Đức Hoà Hạ, Đức Hòa, Long An",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":638,
+         "titleNews":"CẦN THANH LÝ GẤP VÀI LÔ ĐẤT GIÁ TỐT ĐẦU TƯ, CÓ SỔ HỒNG RIÊNG",
+         "summaryNews":null,
+         "descriptionNews":"Cần thanh lý gấp vài lô đất trong khu dân cư Tên Lửa mở rộng. Diện tích 5x12m, 5x16m, 5x21m, 5x26m, 6x19m, 8x21m, 10x26m,... - Liền kề bệnh viện Chợ Rẫy 2 khoảng 500m. - Gần bệnh viện, nhà hàng, ngân hàng, gần UBND, đến chợ thuận lợi (200m) dân cư đã hiện hữu đông đúc. - Gần khu công nghiệp (Bon chen 2, Tân Tạo, Lê Minh Xuân 3). - Đất thổ cư 100%, sổ hồng riêng, sang tên công chứng tại văn phòng công chứng nhà nước. Giá Chỉ: 10tr/m2 - Xây dựng tự do, hỗ trợ xin cấp phép xây dựng trọn gói. - Cơ sở hạ tầng hoàn thiện, đường trải nhựa 12m - 30m. Liên hệ 0888.476.478 Đỗ Anh Tuấn",
+         "pubDate":"09/11/2019",
+         "price":"800 triệu",
+         "area":"80m²",
+         "address_prop":" Tân Tạo A, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":614,
+         "titleNews":"Mở bán 47 nền đất cực đẹp, đã có sổ hồng riêng, 5x20m, đường Quốc Lộ 1A, giá: 1.9 tỷ",
+         "summaryNews":null,
+         "descriptionNews":"- Đường sá cực kỳ đẹp, cơ sở hạ tầng hoàn thiện, sổ hồng riêng đã có. - Diện tích: 5x18m, 5x20m, 7x14m. Đất ở đô thị. - Về siêu thị Aeon Mall khu Tên Lửa 5 phút, về trung tâm quận 1 mất 20 phút. - Thích hợp đầu tư, hoặc ở và xây nhà trọ. - Tuyến Quốc Lộ 1A chuẩn bị mở rộng đến cầu Bình Điền, giá trị đất sẽ tăng cao. - Sổ hồng riêng chính chủ bán. Khu dân cư hiện hữu, dân cư đông đúc, không ngập nước, đi lại thuận tiện. Giá: 1.9 tỷ. Liên hệ: 0909.947.176 A Chương",
+         "pubDate":"09/11/2019",
+         "price":"1 tỷ 900 triệu",
+         "area":"100m²",
+         "address_prop":" Quốc Lộ 1A, An Lạc, Quận Bình Tân, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Lê Chí Chương",
+         "contactPhone":"0909947176 - 0909947176",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":619,
+         "titleNews":"thanh lý Nhà trọ-đất chỉ 635tr/nền thu hồi nợ xấu cuối năm.",
+         "summaryNews":null,
+         "descriptionNews":"Hiện tại ngân hang chúng tôi đang nắm giữ một số BĐS bán với giá rẻ để thu hồi nợ xấu cuối năm. BĐS gồm có: *Đất: 5x30m=150m2. giá 635tr/lô 10x30m=300m. giá 1 ty 5 *Nhà trọ : 7 phòng + 1kiot. Giá : 1 tỷ 1/dãy. *Nhà : 1 trệt 3 lầu. Giá : 1 ty 9 Liên hệ: 0969 082 739 Ngân - Vị trí nằm mặt tiền đường 16m, 15m, 36m, 62m. đường thông thoáng, thuận tiện đi lại - Gần nhiều khu CN nước ngoài, Nhật, Hàn, Singapore. - Tiện xây trọ, xây nhà trẻ, kinh doanh buôn bán quán ăn, mở văn phòng, khách sạn. - Pháp lý minh bạch, sổ hồng, thổ cư 100% Hiện chỉ thanh lý trong vòng 1 tháng, liên hệ ngay để được vị trí đẹp nhất. LH BỘ PHẬN THANH LÝ GẤP: ms Ngân 0969 082 739",
+         "pubDate":"09/11/2019",
+         "price":"635 triệu",
+         "area":"900m²",
+         "address_prop":" NE8, Mỹ Phước 3, Bến Cát, Bình Dương",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Chị Ngân",
+         "contactPhone":"0969 082 739",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":631,
+         "titleNews":"SACOMBANK HT THANH LÝ 38 NỀN ĐẤT LK BẾN XE MIỀN TÂY",
+         "summaryNews":null,
+         "descriptionNews":"Đăng ký để nhận thông tin và thời gian phát mãi (0888476478). Trân trọng thông báo: 8h00 ngày 10-11-2019.Ngân hàng Sacombank HT phát mãi 30 nền đất và 8 lô góc thổ cư 100% gần bến xe Miền Tây khu vực TP. HCM. + Vị trí vàng: Nằm trên đại lộ Trần Văn Giàu, liền kề bến xe Miền Tây - di chuyển về trung tâm thành phố chỉ 10 phút. Gần 3 khu công nghiệp lớn lên đến 500,000 công nhân và 4,000 chuyên gia nước ngoài đang sinh sống và làm việc tại đây. Nằm tiếp giáp quận Tân Phú, quận 6... + Cơ sở hạ tầng hoàn thiện 100%. Tất cả các tuyến đường đã trải nhựa và có bảng tên đường, hệ thống thoát nước, cột mốc đã hoàn thiện. Vỉa hè từ 3m - 5m, hai bên đường đã trồng cây xanh, hệ thống đèn đường. Khu dân cư sử dụng hệ thống điện âm 3 pha, nước sạch Sawaco thành phố. Hệ thống xử lý thoát nước lớn, không sợ ngập úng. (Diện tích 30 nền đất và 15 lô góc thổ cư 100% cần phát mãi). + Diện tích đất nhà phố: 5m x 16m, 5m x 21m, 5m x 26m. + Diện tích đất biệt thự: 10m x 19m, 10m x 21m, 10m x 26m... + Diện tích đất góc 2 mặt tiền: 8m x 21m, 9m x 21m, 10m x 26m... + Diện tích đất góc 2 MT biệt thự: 10m x 21m, 10m x 26m, 12m x 26m. GIÁ: 899Tr/Nền (Giá thanh lý đã được niêm yết không đấu giá tài sản). + Tiện ích: Trường học các cấp, siêu thị Coop Mart, công viên cây xanh, nhà hàng, bệnh viện... + Pháp lý minh bạch - sổ hồng riêng từng nền. Sang tên công chứng sau khi quý khách thanh toán 95%. Ngân hàng Sacombank hỗ trợ vay 50% - thanh toán linh hoạt. Phù hợp cho quý khách mua để ở, đầu tư, kinh doanh, buôn bán, cho thuê trọ... (Lưu ý) quý khách mua tối thiểu 1 nền đất trong ngày phát mãi được tặng 2 gói ưu đãi. Gói 1: Tặng gói tư vấn thiết kế xây dựng: 30.000.000Đ. Gói 2: Tặng sổ tiết kiệm Sacombank trị giá: 50.000.000Đ. Đăng ký để nhận thông tin và thời gian phát mãi. (phòng phát mãi) 0888.476.478 Đỗ Anh Tuấn Cám ơn quý khách đã xem tin!",
+         "pubDate":"09/11/2019",
+         "price":"899 triệu",
+         "area":"105m²",
+         "address_prop":" Lê Minh Xuân, Huyện Bình Chánh, TP.HCM",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Hoàng Tuấn",
+         "contactPhone":"0333997833 - 0888476478",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":624,
+         "titleNews":"Bán gấp đất 80m2, 105m2, 130m2, 175m2... trong KDC Tân Đô, Đất Nam Luxury",
+         "summaryNews":null,
+         "descriptionNews":"- Xung quanh là các KCN lớn: Tân Đô, Tân Đức, Hạnh Phúc, Hải Sơn... Công nhân rất đông, đối diện công ty Bonchen 2, tiện kinh doanh buôn bán, xây phòng trọ, đầu tư... - Diện tích: 5x16m, 5x21m, 5x25m, 5x26m, 6x17.5 m, 6x19m, 6x26m, 6x27m, 10x17.5m.... Đặc biệt có lô cặp, lô góc. - Chính chủ, sổ hồng riêng, bao sang tên công chứng. - Vị trí đất gần chợ, trường học, trung tâm y tế, nhà hàng, công viên, khu vui chơi giải trí, thế giới di động. - Được xây dựng tự do, không giới hạn thời gian xây dựng. - Hạ tầng hoàn thiện: Đường trải nhựa rộng lớn 12m - 42m, vỉa hè cây xanh, đèn chiếu sáng, sử dụng điện âm, nước máy Savaco TP, internet cáp quang. - LH:0901 640 680 để xem đất và xem sổ. Chúc A/C sớm có đất để an cư lạc nghiệp.",
+         "pubDate":"09/11/2019",
+         "price":"1 tỷ 350 triệu",
+         "area":"130m²",
+         "address_prop":" tên lửa, bình trị đông b, bình tân Tỉnh Lộ 10, Đức Hoà Hạ, Đức Hòa, Long An",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"nguyễn mộng kha",
+         "contactPhone":"0901640680 - 0901640680",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      },
+      { 
+         "newsId":608,
+         "titleNews":"Mua bán và nhận ký gửi đất khu dân cư An Hạ Riverside, Tân Đô",
+         "summaryNews":null,
+         "descriptionNews":"+ Bán nhiều lô đất thổ cư 100% - giá rẻ từ chủ đầu tư. + Nhận ký gửi hoặc mua lại các lô đất trong khu dân cư Tân Đô, Giá thị trường (thương lượng trực tiếp) nhanh tay gọi ngay 0909.947.176 gặp CHƯƠNG để được hỗ trợ ** An Hạ Riverside _ Eco village _ Tân Đô + Nằm trong cụm khu công nghiệp Tân Đô,Tân Đức, Hải Sơn, Liên Minh, Hạnh Phúc, Đức Hòa 1,2…….. + Diện tích đất: 5x16m, 5x21m, 5x25m, 5x26m, 10x20m, 15x20m và nhiều diện tích khác. + Bảng giá từng lô vui lòng liên hệ: 0909.947.176 CHƯƠNG (từ 3,5 triệu/m2). + Pháp lí: Sổ hồng riêng, sang tên công chứng ngay. + Hạ tầng: Đường nhựa 95%, rộng từ 16m, 20m, 30m, 42m. + Điện nước đầy đủ, vỉa hè cây xanh. + Quy mô dự án: 94,1 ha. + Điểm nhấn: Hồ sinh thái 15 ha và hồ sinh thái 6 ha. + Xây dựng tự do, hỗ trợ GPXD và Hoàn Công Liên hệ :0909.947.176 gặp chị CHƯƠNG để được tư vấn miễn phí",
+         "pubDate":"09/11/2019",
+         "price":"400 triệu",
+         "area":"130m²",
+         "address_prop":" Đức Hoà Hạ, Đức Hòa, Long An",
+         "userId":1,
+         "imageUser":"https://lh4.googleusercontent.com/-oTnsvG0mZOY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcSVx44Jq41IMkB8XO5mJqbnFOOlQ/mo/photo.jpg",
+         "username":"User Admin",
+         "contactName":"Lê Chí Chương",
+         "contactPhone":"0909947176 - 0909947176",
+         "contactEmail":null,
+         "projectName":null,
+         "projectOwner":null,
+         "projectSize":null,
+         "likeNewsList":[ 
+
+         ],
+         "commentList":[ 
+
+         ],
+         "shareNewsList":[ 
+
+         ],
+         "imageUrlList":[ 
+
+         ]
+      }
+   ]
 }
